@@ -1,3 +1,7 @@
+Hello , I am Giorgi bezhiashvili 🧍 , i Am a web developer 👨‍💻
+I know HTML , CSS , JavaScript , Sass, Scss, and Bootstrap.. 📓✧˖°.
+I am learning code for like 4 years. enjoy my profile <3 
+
 - 👋 Hi, I’m @giorgi-bezhiashvili
 - 👀 I’m interested in Programming and problem solving , I also play chess and love maths and history
 - 🌱 I’m currently learning Java
