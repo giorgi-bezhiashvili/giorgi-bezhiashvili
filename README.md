@@ -5,7 +5,7 @@ I am learning code for like 4 years.
 enjoy my profile <3 
 
 - 👋 Hi, I’m @giorgi-bezhiashvili
-- 👀 I’m interested in Programming and problem solving , I also play chess and love maths and history
+- 👀 I’m interested in Programming and problem solving , I also play chess ♟ and love maths ➕,historyand calisthenics 💪
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me giorgibezhiashvili5@gmail.com
