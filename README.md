@@ -7,9 +7,10 @@ Hello , I am Giorgi bezhiashvili 🧍 , web developer 👨‍💻
    play chess ♟ and love maths ➕,history and calisthenics 💪
 
 Languages I Know:
-![HTML](https://www.shareicon.net/download/2016/08/01/639868_development.ico)
 
+![HTML](https://www.shareicon.net/download/2016/08/01/639868_development.ico)
 ![Css](https://codybonney.com/images/1x1/tags/400x400/css.png)
+![Java Script]([https://codybonney.com/images/1x1/tags/400x400/css.png](https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png))
 
 About Me (:  
 - 👋 Hi, I’m @giorgi-bezhiashvili
