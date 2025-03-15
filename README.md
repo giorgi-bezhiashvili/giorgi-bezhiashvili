@@ -8,6 +8,7 @@ Hello , I am Giorgi bezhiashvili 🧍 , web developer 👨‍💻
 🚀 "Talk is cheap. Show me the code." 
 
 🚀 Tech Stack
+.
 <img src="https://www.shareicon.net/download/2016/08/01/639868_development.ico" alt="HTML" width="100" height="100">
 <img src="https://codybonney.com/images/1x1/tags/400x400/css.png" alt="CSS" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="Java Script" width="100" height="100">
