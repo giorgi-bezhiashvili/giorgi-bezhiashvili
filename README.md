@@ -8,6 +8,8 @@ Hello , I am Giorgi bezhiashvili 🧍 , web developer 👨‍💻
 
 Languages I Know:
 
+<img src="https://www.shareicon.net/download/2016/08/01/639868_development.ico" alt="HTML" width="100" height="100">
+
 ![HTML](https://www.shareicon.net/download/2016/08/01/639868_development.ico)
 ![Css](https://codybonney.com/images/1x1/tags/400x400/css.png)
 ![Java Script]([https://codybonney.com/images/1x1/tags/400x400/css.png](https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png))
