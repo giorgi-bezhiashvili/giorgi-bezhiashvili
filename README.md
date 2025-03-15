@@ -8,7 +8,7 @@ Hello , I am Giorgi bezhiashvili 🧍 , web developer 👨‍💻
 
 Languages I Know:
 ![HTML](https://www.shareicon.net/download/2016/08/01/639868_development.ico)
-![Css]([https://www.w3docs.com/uploads/media/book_gallery/0001/02/ea50fd5ac033ccb1ab19a9aa4f1135464bbc1399.png](https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png))
+![Css](https://www.google.com/search?q=css+photo+100x100&sca_esv=41f72876b35066b9&rlz=1C1YTUH_enGE1036GE1036&udm=2&biw=1600&bih=773&sxsrf=AHTn8zraDZue_Q4_F0a7xZZTx-w_vuNRdQ%3A1742057166045&ei=zq7VZ_ywAserkdUP5tSDsQc&ved=0ahUKEwj8z73UxIyMAxXHVaQEHWbqIHYQ4dUDCBE&uact=5&oq=css+photo+100x100&gs_lp=EgNpbWciEWNzcyBwaG90byAxMDB4MTAwSJcWUJsEWKETcAF4AJABAJgB1gGgAfAMqgEDMi04uAEDyAEA-AEBmAICoALjAcICBhAAGAcYHsICBRAAGIAEwgIEEAAYHsICBhAAGAoYHpgDAIgGAZIHBTEuMC4xoAerBw&sclient=img#vhid=NtqUeNY6NkRD3M&vssid=mosaic)
 
 About Me (:  
 - 👋 Hi, I’m @giorgi-bezhiashvili
