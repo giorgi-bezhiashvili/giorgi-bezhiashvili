@@ -24,6 +24,3 @@ Hello, I am Giorgi Bezhiashvili 🧍, a passionate Web Developer 👨‍💻
 ![Giorgi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgi-bezhiashvili&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight)
 [![Giorgi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giorgi-bezhiashvili&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
