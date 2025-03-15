@@ -1,13 +1,18 @@
 Hello , I am Giorgi bezhiashvili 🧍 , web developer 👨‍💻
-I know HTML , CSS , JavaScript , Sass, 
-Scss, and Bootstrap.. 📓✧˖°.
-I am learning code for like 4 years.
-enjoy my profile <3 
 
+🚀 "Talk is cheap. Show me the code." 
+
+- 🥋 I love Judo and it's my Favorite thing after Coding <3
+- 👀 I’m also interested in Programming and problem solving , I also
+   play chess ♟ and love maths ➕,history and calisthenics 💪
+
+Languages I Know:
+![HTML](https://www.w3docs.com/uploads/media/book_gallery/0001/02/ea50fd5ac033ccb1ab19a9aa4f1135464bbc1399.png)
+
+About Me (:  
 - 👋 Hi, I’m @giorgi-bezhiashvili
-- 👀 I’m interested in Programming and problem solving , I also play chess ♟ and love maths ➕,history and calisthenics 💪
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL
+- 💞️ I’m 
 - 📫 How to reach me giorgibezhiashvili5@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am learning programming since i was 10 .
