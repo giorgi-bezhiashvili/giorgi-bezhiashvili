@@ -22,7 +22,6 @@ Hello, I am Giorgi Bezhiashvili 🧍, a passionate Web Developer 👨‍💻
 ❤️ LOVE Y'ALL! Enjoy my profile and feel free to connect! 🚀💞
 
 ![Profile Views](https://komarev.com/ghpvc/?username=giorgi-bezhiashvili&color=blue)
-![Giorgi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgi-bezhiashvili&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight)
 [![Giorgi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giorgi-bezhiashvili&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
