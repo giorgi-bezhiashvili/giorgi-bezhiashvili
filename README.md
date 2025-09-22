@@ -9,7 +9,7 @@ Hello, I am Giorgi Bezhiashvili 🧍, a passionate Web Developer 👨‍💻
 
 👀 I'm always exploring programming and problem-solving challenges.
 
-🌱 Currently learning Data structures and algorithms to enhance my thinking skills.
+🌱 Currently learning Express to enhance my backend skills.
 
 🚀 Languages & Technologies
 "Talk is cheap. Show me the code." – Linus Torvalds
