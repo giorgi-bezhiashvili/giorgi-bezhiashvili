@@ -3,7 +3,7 @@
 Hello, I am Giorgi Bezhiashvili 🧍, a passionate Web Developer 👨‍💻
 
 🌟 About Me
-🥋 I love Judo—it's my favorite thing after coding! ❤️
+🥋 I love training it's my favorite thing after coding! ❤️
 
 ♟ I enjoy chess, math, history, and calisthenics 💪
 
