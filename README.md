@@ -24,6 +24,6 @@ Hello, I am Giorgi Bezhiashvili 🧍, a passionate Backend Developer 👨‍💻
 ![Profile Views](https://komarev.com/ghpvc/?username=giorgi-bezhiashvili&color=blue)
 <p align="center">
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
-</p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+</p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgi-bezhiashvili&theme=tokyonight)](https://git.io/streak-stats)
 
 
