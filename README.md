@@ -22,7 +22,7 @@ Hello, I am Giorgi Bezhiashvili 🧍, a passionate Backend Developer 👨‍💻
 ❤️ LOVE Y'ALL! Enjoy my profile and feel free to connect! 🚀💞
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
