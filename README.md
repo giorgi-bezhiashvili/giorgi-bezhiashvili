@@ -48,9 +48,6 @@ Feel free to reach out if you want to collaborate on a project, talk backend arc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorgi-bezhiashvili&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 <p align="center">
