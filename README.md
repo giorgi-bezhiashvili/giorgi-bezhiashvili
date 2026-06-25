@@ -13,6 +13,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge&logo=npm&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Frontend (working knowledge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,9 +36,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Social-Ts](https://github.com/giorgi-bezhiashvili/Social-Ts) | Social media REST API with JWT refresh rotation, Google OAuth, real-time notifications | Node.js · TypeScript · MongoDB · Socket.io |
-| [Full E-Commerce Backend]([https://github.com/giorgi-bezhiashvili/Full-eccomerce-backend]) | Multi-seller e-commerce API with Stripe Connect payouts and ClamAV virus scanning | Node.js · TypeScript · MongoDB · Stripe |
+| [Full E-Commerce Backend](https://github.com/giorgi-bezhiashvili/Full-eccomerce-backend) | Multi-seller e-commerce API with Stripe Connect payouts and ClamAV virus scanning | Node.js · TypeScript · MongoDB · Stripe |
 | [Newton](https://github.com/giorgi-bezhiashvili/Newton) | Full-stack physics learning platform | Node.js · TypeScript · React · MongoDB |
-| [Auth Boilerplate]([https://github.com/giorgi-bezhiashvili/Register-and-login)) | Production-ready auth starter: JWT rotation, Google OAuth, timing-safe token comparison | Node.js · TypeScript · Passport |
+| [Auth Boilerplate](https://github.com/giorgi-bezhiashvili/Register-and-login) | Production-ready auth starter: JWT rotation, Google OAuth, timing-safe token comparison | Node.js · TypeScript · Passport |
 
 ---
 
