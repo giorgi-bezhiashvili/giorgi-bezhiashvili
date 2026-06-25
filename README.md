@@ -1,55 +1,66 @@
-# 📌 Introduction
+# Hi there, I'm Giorgi Bezhiashvili 👋
 
-Hi there! 👋 I'm **Giorgi Bezhiashvili**, a passionate Backend Developer dedicated to building scalable, efficient, and robust server-side applications.
-
----
-
-### 🌟 About Me
-
-* 🥋 **Martial Arts & Fitness:** Training is my absolute favorite thing to do after coding! ❤️
-* ♟ **Interests:** Big fan of chess, mathematics, history, and pushing my limits with calisthenics 💪
-* 👀 **Focus:** I am always exploring deep backend architecture, database optimization, and complex problem-solving challenges.
-* 🌱 **Current Horizon:** Actively mastering **Python** to expand my backend ecosystem and automation capabilities.
-
-> "Talk is cheap. Show me the code." – *Linus Torvalds*
+**Backend Developer** focused on building scalable REST APIs and server-side systems with Node.js, TypeScript, and MongoDB.
 
 ---
 
-### 🚀 Languages & Technologies
+### 🛠️ Tech Stack
 
-#### **Frontend Basics**
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50" style="max-width: 100%; height: auto;">
-  <img src="https://codybonney.com/images/1x1/tags/400x400/css.png" alt="CSS" width="50" height="50" style="max-width: 100%; height: auto;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50" style="max-width: 100%; height: auto;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHXh4ol0H3KHguGdHW7rGfH9BvNBdXwB8HQ&s" alt="Sass" width="50" height="50" style="max-width: 100%; height: auto;">
-  <img src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" alt="SCSS" width="50" height="50" style="max-width: 100%; height: auto;">
-</p>
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-#### **Backend & Databases**
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrISpgedNtHAGlKBWl0ftrBe4B1JiGwDTP2g&s" alt="Node" width="50" height="50" style="max-width: 100%; height: auto;">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHECcEubHcDCQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1723784886946?e=2147483647&v=beta&t=csZwgyvGdLNPMdG6BNr0tayFMumq36x84kC8CWdSbq8" alt="express" width="100" height="50" style="max-width: 100%; height: auto;">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="SQL" width="50" height="50" style="max-width: 100%; height: auto;">
-  <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" alt="MongoDB" width="50" height="50" style="max-width: 100%; height: auto;">
-</p>
+#### Frontend (working knowledge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Learning
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
+### 🚀 Featured Projects
 
-Feel free to reach out if you want to collaborate on a project, talk backend architecture, or play a game of chess!
-
-* 📧 **Email:** [giorgibezhiashvili5@gmail.com](mailto:giorgibezhiashvili5@gmail.com)
-* 🔗 **LinkedIn:** [Giorgi Bezhiashvili](https://www.linkedin.com/in/giorgi-bezhiashvili-b8377033b/)
+| Project | Description | Stack |
+|---|---|---|
+| [Social-Ts](https://github.com/giorgi-bezhiashvili/Social-Ts) | Social media REST API with JWT refresh rotation, Google OAuth, real-time notifications | Node.js · TypeScript · MongoDB · Socket.io |
+| [Full E-Commerce Backend](https://github.com/giorgi-bezhiashvili/Full-E-Commerce-Backend) | Multi-seller e-commerce API with Stripe Connect payouts and ClamAV virus scanning | Node.js · TypeScript · MongoDB · Stripe |
+| [Newton](https://github.com/giorgi-bezhiashvili/Newton) | Full-stack physics learning platform | Node.js · TypeScript · React · MongoDB |
+| [Auth Boilerplate](https://github.com/giorgi-bezhiashvili/Register-Login) | Production-ready auth starter: JWT rotation, Google OAuth, timing-safe token comparison | Node.js · TypeScript · Passport |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorgi-bezhiashvili&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  🚀 <i>"Every day is an opportunity to optimize code and life."</i> 💞
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### 🌟 About Me
+
+- 🥋 Martial arts & calisthenics — my second language after TypeScript
+- ♟ Chess, mathematics, history
+- 🐧 Daily driving Linux
+- 📍 Tbilisi, Georgia
+
+---
+
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgibezhiashvili5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-bezhiashvili-b8377033b/)
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
