@@ -56,9 +56,10 @@
 ### 🌟 About Me
 
 - 🥋 Martial arts & calisthenics — my second language after TypeScript
-- ♟ Chess, mathematics, history
+- ♟ Chess, mathematics, history , working out
 - 🐧 Daily driving Linux
 - 📍 Tbilisi, Georgia
+
 
 ---
 
