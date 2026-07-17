@@ -1,6 +1,6 @@
 # Hi there, I'm Giorgi Bezhiashvili 👋
 
-**Backend Developer** focused on building scalable REST APIs and server-side systems with Node.js, TypeScript, and MongoDB.
+**Backend Developer** focused on building scalable REST APIs and server-side systems with Nest.js, Node.js, TypeScript, and MongoDB.
 
 ---
 
