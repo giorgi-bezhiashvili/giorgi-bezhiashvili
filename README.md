@@ -37,7 +37,7 @@
 |---|---|---|
 | [Social-Ts](https://github.com/giorgi-bezhiashvili/Social-Ts) | Social media REST API with JWT refresh rotation, Google OAuth, real-time notifications | Node.js · TypeScript · MongoDB · Socket.io |
 | [Full E-Commerce Backend](https://github.com/giorgi-bezhiashvili/Full-eccomerce-backend) | Multi-seller e-commerce API with Stripe Connect payouts and ClamAV virus scanning | Node.js · TypeScript · MongoDB · Stripe |
-| [Newton](https://github.com/giorgi-bezhiashvili/Newton) | Full-stack physics learning platform | Node.js · TypeScript · React · MongoDB |
+| [Newton](https://github.com/giorgi-bezhiashvili/Newton) | Full-stack physics learning platform | Node.js · TypeScript · Next.Js · MongoDB |
 | [Auth Boilerplate](https://github.com/giorgi-bezhiashvili/Register-and-login) | Production-ready auth starter: JWT rotation, Google OAuth, timing-safe token comparison | Node.js · TypeScript · Passport |
 
 ---
