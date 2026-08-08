@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&theme=tokyonight&layout=donut" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&theme=tokyonight&layout=donut&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
