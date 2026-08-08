@@ -47,8 +47,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorgi-bezhiashvili&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&theme=tokyonight&layout=donut" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
@@ -58,7 +62,6 @@
 - ♟ Chess, mathematics, history , working out
 - 🐧 Daily driving Linux
 - 📍 Tbilisi, Georgia
-
 
 ---
 
