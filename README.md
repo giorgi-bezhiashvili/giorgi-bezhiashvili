@@ -47,11 +47,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorgi-bezhiashvili&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi-bezhiashvili&theme=tokyonight&layout=donut&langs_count=6" alt="Top Languages" />
-  </a>
+  <img src="https://metrics.lecoq.io/giorgi-bezhiashvili?template=classic&base=header&languages=1&languages.limit=8&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
