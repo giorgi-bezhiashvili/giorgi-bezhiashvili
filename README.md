@@ -48,7 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorgi-bezhiashvili&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://metrics.lecoq.io/giorgi-bezhiashvili?template=classic&base=header&languages=1&languages.limit=8&theme=tokyonight" alt="Languages" />
+  <img src="./github-metrics.svg" alt="Giorgi's GitHub Metrics" />
 </p>
 
 ---
