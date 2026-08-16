@@ -44,9 +44,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorgi-bezhiashvili&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 <p align="center">
   <img src="./github-metrics.svg" alt="Giorgi's GitHub Metrics" />
 </p>
