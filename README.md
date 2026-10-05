@@ -26,7 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Learning
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ---
